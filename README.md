@@ -56,7 +56,7 @@ yarn dev
 
 # About the assignment
 
-Deployed Link
+Deployed Link: 
 ### Link: https://zenstreetaitask.netlify.app/
 
 
